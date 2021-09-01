@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @limmxc1
 - 👀 I’m interested in physiotherapy
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning html/css
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me: limmxc1@gmail.com
 
