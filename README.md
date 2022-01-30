@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @limmxc1
 - 👀 I’m interested in physiotherapy
-- 🌱 I’m currently learning html/css
-- 💞️ I’m looking to collaborate on app development
+- 🌱 I’m currently learning html/css/js
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me: limmxc1@gmail.com
 
 <!---
